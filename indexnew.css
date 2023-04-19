@@ -1,0 +1,42 @@
+.box{
+    margin: 10px;
+}
+.nav{
+    background-color: black;
+}
+
+.flex-container{
+    display: flex;
+
+}
+.boxinside{
+     margin: 10px;
+    padding: 20px;
+    background-color: darkgoldenrod;
+}
+.boxinside1{
+    
+    padding: 20px;
+    background-color: darkgoldenrod;
+}
+.boxinside2{
+    padding: 20px;
+    background-color: darkgoldenrod;
+
+}
+.boxinside3{
+    
+    background-color: darkgoldenrod;
+
+    padding: 20px;
+}
+.box-search{
+   margin-top:10px ;
+    padding: 20px;
+}
+.boxinside4 {
+margin: 10px;
+    padding: 20px;
+    background-color: darkgoldenrod;
+
+}
